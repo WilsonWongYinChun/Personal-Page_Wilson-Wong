@@ -21,6 +21,9 @@ a:hover {
   color: #6633ff;
 }
 
+.selected {
+  color: #ffffff;     
+}
 /* Section Styles */
 
 .main-nav {
